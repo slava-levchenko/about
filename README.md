@@ -1,5 +1,4 @@
-# About
-# Work Experience
+# About my Work Experience
 
 ## QA Automation Engineer  
 **Fintech project under NDA**  
