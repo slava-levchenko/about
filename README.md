@@ -103,5 +103,6 @@ I’ve worked in both **distributed international teams** and **cross-functional
 Also — I can’t imagine life without horses and motorcycles.  
 
 ## 📬 My Contacts  
+**LinkedIn:** [linkedin.com/in/slava-levchenko](https://www.linkedin.com/in/slava-levchenko)  
 📩 **Telegram:** [@aqalove](https://t.me/aqalove)  
 📧 **Email:** aqaslava@gmail.com  
