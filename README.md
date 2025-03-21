@@ -1,8 +1,8 @@
 # About my Work Experience
 
-## QA Automation Engineer  
-**Fintech project under NDA**  
+## Fintech project under NDA
 **Sep 2024 - Present**  
+**QA Automation Engineer**
 One of the leading fintech services in CIS and European countries, providing solutions for online payments, banking integrations, and blockchain technologies. High demands for reliability, security, and rapid release cycles.
 
 ### Responsibilities:
@@ -19,7 +19,7 @@ One of the leading fintech services in CIS and European countries, providing sol
 - **Monitoring:** Grafana
 - **Test Management & Documentation:** Jira, Zephyr, Confluence
 
-### Key Responsibilities:
+### Responsibilities:
 - Manual testing
 - Developing and maintaining Python-based automated tests (UI & API)
 - Ensuring the correctness of integrations with internal and external APIs
@@ -35,7 +35,7 @@ One of the leading fintech services in CIS and European countries, providing sol
 - Acted as a technical analyst, gathering requirements and documenting tasks in Jira and Confluence
 - Presented demo overviews for internal stakeholders, including C-level executives
 
----
+
 
 ## Moscow Exchange (Sep 2023 – Sep 2024)
 ### Tech Stack:
@@ -52,7 +52,7 @@ One of the leading fintech services in CIS and European countries, providing sol
 - Zero critical production bugs under my functional testing responsibilities.
 - Provided cross-stream testing support and received positive feedback for initiative and reliability.
 
---
+
 
 ## Fintech Project under NDA (Nov 2022 – Sep 2023)
 ### Tech Stack:
@@ -68,7 +68,7 @@ One of the leading fintech services in CIS and European countries, providing sol
 - Conducted onboarding for two new QA engineers, creating setup guides.
 - Proposed UI improvements adopted by the business to enhance UX.
 
---
+
 
 ## Quality League (Dec 2020 – Nov 2022)
 ### Tech Stack:
@@ -84,36 +84,23 @@ One of the leading fintech services in CIS and European countries, providing sol
 - Developed an onboarding guide for new QA engineers.
 - Conducted technical interviews for QA hiring.
 
---
 
+## About Me
 I'm an **Automation QA Engineer** with over **4 years** of experience testing projects of various scales — from high-load fintech platforms to product teams in big tech environments.  
-
 I’ve worked in both **distributed international teams** and **cross-functional setups**, with a solid understanding of **team dynamics, architecture, and development processes**. 📈  
 
-## Key Strengths  
+### Strengths  
 ✔ Consistently received **positive feedback** for my initiative, attention to detail, and ability to build strong communication within the team.  
 
 ## 📌 Skills  
-### Languages & Automation  
-- **Python** (Pytest, Requests, Playwright, Allure)  
+#### Languages & Automation: **Python** (Pytest, Requests, Playwright, Allure)  
+#### CI/CD & Infrastructure: GitLab CI, Jenkins, Docker, Kubernetes, Linux (Ubuntu)  
+#### API & Data: Postman, Swagger, Charles Proxy, PostgreSQL, DBeaver, MetaBase  
+#### Other tools & Monitoring: DevTools, Android Studio, Figma, Sentry, Kibana, Grafana  
+#### Documentation & Workflow: Jira, Zephyr, Allure TestOps, Confluence  
+#### Methodologies: Scrum, Kanban (various adaptations)  
 
-### CI/CD & Infrastructure  
-- GitLab CI, Jenkins, Docker, Kubernetes, Linux (Ubuntu)  
-
-### API & Data  
-- Postman, Swagger, Charles Proxy, PostgreSQL, DBeaver, MetaBase  
-
-### Other tools & Monitoring  
-- DevTools, Android Studio, Figma, Sentry, Kibana, Grafana  
-
-### Documentation & Workflow  
-- Jira, Zephyr, Allure TestOps, Confluence  
-
-### Methodologies  
-- **Scrum, Kanban** (various adaptations)  
-
-
-Also — I can’t imagine life without **horses 🏇 and motorcycles 🏍️**.  
+Also — I can’t imagine life without horses and motorcycles.  
 
 ## 📬 My Contacts  
 📩 **Telegram:** [@aqalove](https://t.me/aqalove)  
