@@ -3,7 +3,7 @@
 ## Fintech project under NDA
 **Sep 2024 - Present**  
 **QA Automation Engineer**
-One of the leading fintech services in CIS and European countries, providing solutions for online payments, banking integrations, and blockchain technologies. High demands for reliability, security, and rapid release cycles.
+One of the leading fintech services in the CIS and Europe in its category. High demands for reliability, security, and rapid release cycles.
 
 ### Responsibilities:
 - Ensuring the stability and quality of the client web interface, admin panel, and internal services.
